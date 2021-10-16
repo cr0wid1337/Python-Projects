@@ -1,4 +1,5 @@
-# Python program for simple calculator
+# Python program for simple calculator by cr0wid1337
+# Hacktoberfest-indonesia-2021
   
 # Function to add two numbers 
 def add(num1, num2):
